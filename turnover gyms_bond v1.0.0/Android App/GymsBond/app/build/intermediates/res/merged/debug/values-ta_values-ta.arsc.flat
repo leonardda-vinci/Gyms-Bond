@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d പുതിയ അറിയിപ്പ്</item>
+    <item quantity="other">%d പുതിയ അറിയിപ്പുകൾ</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ഹോമിലേക്ക് പോവുക"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"മുകളിലേക്ക് പോവുക"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"കൂടുതൽ ഓപ്ഷനുകൾ"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"പൂർത്തിയായി"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"എല്ലാം കാണുക"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"ആപ്പ് തിരഞ്ഞെടുക്കുക"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ഓഫ്"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ഓൺ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"ഇല്ലാതാക്കുക"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"ഫംഗ്ഷന്‍+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"മെറ്റ+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"സ്‌പെയ്‌സ്"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"മെനു+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"തിരയുക…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"ചോദ്യം മായ്‌ക്കുക"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"ചോദ്യം തിരയുക"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"തിരയുക"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ചോദ്യം സമർപ്പിക്കുക"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"സംസാരത്തിലൂടെ തിരയുക"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"ഇനിപ്പറയുന്നതുമായി പങ്കിടുക"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> എന്നതുമായി പങ്കിടുക"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ചുരുക്കുക"</string>
+    <string name="bottomsheet_action_expand_halfway">മുഴുവനായി വികസിപ്പിക്കുക</string>
+    <string name="character_counter_content_description">%2$d-ൽ %1$d പ്രതീകങ്ങൾ നൽകി</string>
+    <string name="character_counter_overflowed_content_description">അക്ഷര പരിധി, %2$d-ൽ %1$d കവിഞ്ഞു</string>
+    <string name="clear_text_end_icon_content_description">ടെക്‌സ്‌റ്റ് മായ്‌ക്കുക</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"പ്രവർത്തനക്ഷമമാക്കുക"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"നിങ്ങൾ Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുന്നില്ലെങ്കിൽ <ns1:g id="APP_NAME">%1$s</ns1:g> പ്രവർത്തിക്കില്ല."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play സേവനങ്ങൾ പ്രവർത്തനക്ഷമമാക്കുക"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"ഇന്‍സ്റ്റാള്‍ ചെയ്യുക"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Google Play സേവനങ്ങളില്ലാതെ <ns1:g id="APP_NAME">%1$s</ns1:g> പ്രവർത്തിക്കില്ല, ഈ സേവനങ്ങളാകട്ടെ നിങ്ങളുടെ ഉപകരണത്തിൽ ഇല്ല."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play സേവനങ്ങൾ നേടുക"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play സേവന ലഭ്യത"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play സേവനങ്ങളിലെ പിശക്"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Google Play സേവനങ്ങളുമായി ബന്ധപ്പെട്ട് <ns1:g id="APP_NAME">%1$s</ns1:g> ആപ്പിനെന്തോ പ്രശ്നമുണ്ട്. വീണ്ടും ശ്രമിക്കുക."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Google Play സേവനങ്ങളില്ലാതെ <ns1:g id="APP_NAME">%1$s</ns1:g> പ്രവർത്തിക്കില്ല, സേവനങ്ങളെയാകട്ടെ നിങ്ങളുടെ ഉപകരണം പിന്തുണയ്ക്കുന്നുമില്ല."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"അപ്‌ഡേറ്റുചെയ്യുക"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"നിങ്ങൾ Google Play സേവനങ്ങൾ അപ്‌ഡേറ്റുചെയ്‌തില്ലെങ്കിൽ <ns1:g id="APP_NAME">%1$s</ns1:g> പ്രവർത്തിക്കില്ല."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play സേവനങ്ങൾ അപ്‌ഡേറ്റുചെയ്യുക"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"നിലവിൽ അപ്‌ഡേറ്റുചെയ്യുന്ന Google Play സേവനങ്ങൾ ഇല്ലാതെ <ns1:g id="APP_NAME">%1$s</ns1:g> പ്രവർത്തിക്കില്ല."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play സേവനങ്ങളുടെ പുതിയ പതിപ്പ് ആവശ്യമാണ്. താമസിയാതെ ഇത് സ്വയം അപ്‌ഡേറ്റുചെയ്യും."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"ഫോണിൽ തുറക്കുക"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"സൈൻ ഇൻ ചെയ്യുക"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക"</string>
+    <string name="error_icon_content_description">പിശക്</string>
+    <string name="exposed_dropdown_menu_content_description">ഡ്രോപ്പ്‌ ഡൗൺ മെനു കാണിക്കുക</string>
+    <string name="icon_content_description">ഡയലോഗ് ഐക്കൺ</string>
+    <string name="item_view_role_description">ടാബ്</string>
+    <string name="material_clock_toggle_content_description">AM അല്ലെങ്കിൽ PM തിരഞ്ഞെടുക്കുക</string>
+    <string name="material_hour_selection">മണിക്കൂർ തിരഞ്ഞെടുക്കുക</string>
+    <string name="material_hour_suffix">%1$s മണി</string>
+    <string name="material_minute_selection">മിനിറ്റ് തിരഞ്ഞെടുക്കുക</string>
+    <string name="material_minute_suffix">%1$s മിനിറ്റ്</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">‌സമയം നൽകുന്നതിന് ക്ലോക്ക് മോഡിലേക്ക് ‌മാറുക.</string>
+    <string name="material_timepicker_hour">മണിക്കൂര്‍</string>
+    <string name="material_timepicker_minute">മിനിറ്റ്</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">സമയം തിരഞ്ഞെടുക്കുക</string>
+    <string name="material_timepicker_text_input_mode_description">സമയം നൽകുന്നതിന് ടെക്സ്റ്റ് ഇൻപുട്ട് ‌മോ‌ഡിലേക്ക് ‌മാറുക.</string>
+    <string name="mtrl_badge_numberless_content_description">പുതിയ അറിയിപ്പ്</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s നീക്കം ചെയ്യുക</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d-ലധികം പുതിയ അറിയിപ്പുകൾ</string>
+    <string name="mtrl_picker_a11y_next_month">അടുത്ത മാസത്തിലേക്ക് മാറ്റുക</string>
+    <string name="mtrl_picker_a11y_prev_month">മുമ്പത്തെ മാസത്തിലേക്ക് മാറ്റുക</string>
+    <string name="mtrl_picker_announce_current_selection">നിലവിൽ തിരഞ്ഞെടുത്തത്: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">തീയതി തിരഞ്ഞെടുക്കുക</string>
+    <string name="mtrl_picker_date_header_unselected">തിരഞ്ഞെടുത്ത തീയതി</string>
+    <string name="mtrl_picker_day_of_week_column_header">ദിവസത്തിന്റെ കോളം: %1$s</string>
+    <string name="mtrl_picker_invalid_format">അസാധുവായ ഫോർമാറ്റ്.</string>
+    <string name="mtrl_picker_invalid_format_example">ഉദാഹരണം: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">%1$s ഉപയോഗിക്കുക</string>
+    <string name="mtrl_picker_invalid_range">അസാധുവായ ശ്രേണി.</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s വർഷത്തിലേക്ക് നാവിഗേറ്റ് ചെയ്യുക</string>
+    <string name="mtrl_picker_out_of_range">ശ്രേണിക്ക് പുറത്താണ്: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">ആരംഭിക്കുന്ന തീയതി – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – അവസാനിക്കുന്ന തീയതി</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">ശ്രേണി തിരഞ്ഞെടുക്കുക</string>
+    <string name="mtrl_picker_range_header_unselected">ആരംഭിക്കുന്ന തീയതി – അവസാനിക്കുന്ന തീയതി</string>
+    <string name="mtrl_picker_save">�

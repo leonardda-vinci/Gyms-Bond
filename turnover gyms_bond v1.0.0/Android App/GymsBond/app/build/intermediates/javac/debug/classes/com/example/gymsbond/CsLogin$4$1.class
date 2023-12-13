@@ -1,0 +1,51 @@
+ = $secret;
+        return $this;
+    }
+
+    /**
+     * Provide a friendly representation
+     *
+     * @return string Machine friendly representation
+     */
+    public function __toString(): string {
+        $options = \http_build_query(Values::of($this->options), '', ' ');
+        return '[Twilio.IpMessaging.V2.CreateCredentialOptions ' . $options . ']';
+    }
+}
+
+class UpdateCredentialOptions extends Options {
+    /**
+     * @param string $friendlyName The friendly_name
+     * @param string $certificate The certificate
+     * @param string $privateKey The private_key
+     * @param bool $sandbox The sandbox
+     * @param string $apiKey The api_key
+     * @param string $secret The secret
+     */
+    public function __construct(string $friendlyName = Values::NONE, string $certificate = Values::NONE, string $privateKey = Values::NONE, bool $sandbox = Values::NONE, string $apiKey = Values::NONE, string $secret = Values::NONE) {
+        $this->options['friendlyName'] = $friendlyName;
+        $this->options['certificate'] = $certificate;
+        $this->options['privateKey'] = $privateKey;
+        $this->options['sandbox'] = $sandbox;
+        $this->options['apiKey'] = $apiKey;
+        $this->options['secret'] = $secret;
+    }
+
+    /**
+     * The friendly_name
+     *
+     * @param string $friendlyName The friendly_name
+     * @return $this Fluent Builder
+     */
+    public function setFriendlyName(string $friendlyName): self {
+        $this->options['friendlyName'] = $friendlyName;
+        return $this;
+    }
+
+    /**
+     * The certificate
+     *
+     * @param string $certificate The certificate
+     * @return $this Fluent Builder
+     */
+    public function setCertificate(string 

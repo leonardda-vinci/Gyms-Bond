@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Gym's Bond v1.0.0/turnover gyms_bond v1.0.0/Android App/GymsBond/app/src/main/res/layout/act__wl_plate_thruster.xml" value="0.2" />
+        <entry key="..\:/Gym's Bond v1.0.0/turnover gyms_bond v1.0.0/Android App/GymsBond/app/src/main/res/layout/act_chat_specific.xml" value="0.25271739130434784" />
+        <entry key="..\:/Gym's Bond v1.0.0/turnover gyms_bond v1.0.0/Android App/GymsBond/app/src/main/res/layout/act_confirm.xml" value="0.25416666666666665" />
+        <entry key="..\:/Gym's Bond v1.0.0/turnover gyms_bond v1.0.0/Android App/GymsBond/app/src/main/res/layout/act_forgot.xml" value="0.25271739130434784" />
+        <entry key="..\:/Gym's Bond v1.0.0/turnover gyms_bond v1.0.0/Android App/GymsBond/app/src/main/res/layout/act_login.xml" value="0.264" />
+        <entry key="..\:/Gym's Bond v1.0.0/turnover gyms_bond v1.0.0/Android App/GymsBond/app/src/main/res/layout/act_main_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Gym's Bond v1.0.0/turnover gyms_bond v1.0.0/Android App/GymsBond/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="..\:/Gym's Bond v1.0.0/turnover gyms_bond v1.0.0/Android App/GymsBond/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.124" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

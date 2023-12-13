@@ -1,0 +1,7 @@
+#Wed Dec 07 17:59:59 SGT 2022
+base.1=D\:\\Gym's Bond v1.0.0\\turnover gyms_bond v1.0.0\\Android App\\GymsBond\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=D\:\\Gym's Bond v1.0.0\\turnover gyms_bond v1.0.0\\Android App\\GymsBond\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

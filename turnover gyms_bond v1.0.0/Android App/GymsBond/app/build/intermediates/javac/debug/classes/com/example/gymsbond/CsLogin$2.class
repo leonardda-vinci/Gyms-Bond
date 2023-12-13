@@ -1,0 +1,13 @@
+hannelEnabled']),
+            'Notifications.RemovedFromChannel.Template' => $options['notificationsRemovedFromChannelTemplate'],
+            'Notifications.RemovedFromChannel.Sound' => $options['notificationsRemovedFromChannelSound'],
+            'Notifications.InvitedToChannel.Enabled' => Serialize::booleanToString($options['notificationsInvitedToChannelEnabled']),
+            'Notifications.InvitedToChannel.Template' => $options['notificationsInvitedToChannelTemplate'],
+            'Notifications.InvitedToChannel.Sound' => $options['notificationsInvitedToChannelSound'],
+            'PreWebhookUrl' => $options['preWebhookUrl'],
+            'PostWebhookUrl' => $options['postWebhookUrl'],
+            'WebhookMethod' => $options['webhookMethod'],
+            'WebhookFilters' => Serialize::map($options['webhookFilters'], function($e) { return $e; }),
+            'Limits.ChannelMembers' => $options['limitsChannelMembers'],
+            'Limits.UserChannels' => $options['limitsUserChannels'],
+        

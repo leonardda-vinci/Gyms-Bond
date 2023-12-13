@@ -1,0 +1,40 @@
+ntInstance records from the API.
+     * Request is executed immediately
+     *
+     * @param string $targetUrl API-generated URL for the requested results page
+     * @return SubscribedEventPage Page of SubscribedEventInstance
+     */
+    public function getPage(string $targetUrl): SubscribedEventPage {
+        $response = $this->version->getDomain()->getClient()->request(
+            'GET',
+            $targetUrl
+        );
+
+        return new SubscribedEventPage($this->version, $response, $this->solution);
+    }
+
+    /**
+     * Create the SubscribedEventInstance
+     *
+     * @param string $type Type of event being subscribed to.
+     * @param array|Options $options Optional Arguments
+     * @return SubscribedEventInstance Created SubscribedEventInstance
+     * @throws TwilioException When an HTTP error occurs.
+     */
+    public function create(string $type, array $options = []): SubscribedEventInstance {
+        $options = new Values($options);
+
+        $data = Values::of(['Type' => $type, 'SchemaVersion' => $options['schemaVersion'], ]);
+
+        $payload = $this->version->create('POST', $this->uri, [], $data);
+
+        return new SubscribedEventInstance($this->version, $payload, $this->solution['subscriptionSid']);
+    }
+
+    /**
+     * Constructs a SubscribedEventContext
+     *
+     * @param string $type Type of event being subscribed to.
+     */
+    public function getContext(string $type): SubscribedEventContext {
+        return new SubscribedEventContext($this->version, $this->solution['subscriptionSi

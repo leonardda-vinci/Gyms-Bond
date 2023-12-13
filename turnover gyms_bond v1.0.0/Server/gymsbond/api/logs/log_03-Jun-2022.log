@@ -1,0 +1,4 @@
+2022-06-03 21:51:41 : error:SELECT *
+        FROM tbl_credential 
+        WHERE confirmation_code=''
+        ORDER BY created_at DESCUnknown column 'created_at' in 'order clause'

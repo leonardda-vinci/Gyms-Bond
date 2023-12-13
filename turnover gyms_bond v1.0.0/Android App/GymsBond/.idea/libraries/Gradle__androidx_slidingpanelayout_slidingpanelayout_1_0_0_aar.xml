@@ -1,0 +1,11 @@
+ngProxyAddress = Values::NONE, string $messagingBindingProjectedAddress = Values::NONE, int $lastReadMessageIndex = Values::NONE, string $lastReadTimestamp = Values::NONE, string $xTwilioWebhookEnabled = Values::NONE): UpdateParticipantOptions {
+        return new UpdateParticipantOptions($dateCreated, $dateUpdated, $identity, $attributes, $roleSid, $messagingBindingProxyAddress, $messagingBindingProjectedAddress, $lastReadMessageIndex, $lastReadTimestamp, $xTwilioWebhookEnabled);
+    }
+
+    /**
+     * @param string $xTwilioWebhookEnabled The X-Twilio-Webhook-Enabled HTTP
+     *                                      request header
+     * @return DeleteParticipantOptions Options builder
+     */
+    public static function delete(string $xTwilioWebhookEnabled = Values::NONE): DeleteParticipantOptions {
+        return new DeleteParticipantOptions($xTwilioWebhookEnabled
